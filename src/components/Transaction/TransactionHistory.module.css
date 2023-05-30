@@ -1,0 +1,23 @@
+.transaction {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+thead th {
+  padding: 10px;
+  background-color: rgb(70, 70, 175);
+}
+
+td {
+  padding: 5px;
+  background-color: rgb(146, 214, 214);
+  text-align: center;
+  font-weight: 600;
+}
+
+.type {
+  font-weight: 700;
+  background-color: rgb(153, 111, 192);
+}

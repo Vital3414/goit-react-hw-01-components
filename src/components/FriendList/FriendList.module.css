@@ -1,0 +1,33 @@
+.item {
+  border-radius: 5px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px;
+  width: 250px;
+  display: flex;
+  margin-bottom: 20px;
+  background-color: rgb(209, 209, 209);
+}
+
+.avatar {
+  margin-left: 20px;
+  margin-right: 50px;
+}
+
+.list {
+  margin-top: 40px;
+}
+
+.isOffline {
+  background-color: red;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.isOnline {
+  background-color: green;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
